@@ -7,5 +7,5 @@ for number in range(-10, 10):
  elif number == 0:
   print("{:d} is zero")
  else:
- number < -0
-  print("{:d} is negative")
+  number < -0
+   print("{:d} is negative")
